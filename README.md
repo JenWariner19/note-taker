@@ -13,7 +13,7 @@ Connected the front end to an express.js backend in order to write and save note
 6. [Questions](#questions)
 
 ## Installation
-You can view the app [here](https://frozen-retreat-06899.herokuapp.com/notes).
+You can view the app [here](https://frozen-retreat-06899.herokuapp.com/).
 
 ## Usage
 Open the app, then you can view saved notes and enter new notes as needed.<br>
